@@ -59,7 +59,7 @@ Use the ```<icon-name>``` tag in HTML markup. Refer to the [Icon Docs](https://p
 
 ```html
 <!-- example icon -->
-<i shitty-icon="disc"></i>
+<i shitty-icon="archive"></i>
 
 <!-- using vanilla js with no framework -->
 
