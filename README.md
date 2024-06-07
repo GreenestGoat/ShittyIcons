@@ -2,7 +2,7 @@
 <img alt="Logo Banner" src="https://github.com/GreenestGoat/ShittyIcons/blob/ddc8deae16078ab74fd0546b5d8455281c33be1d/banner/banner.svg?sanitize=true"/>
 <br/>
 
-<div align="left">Shitty Icons is a crappy handdrawn icon library built to seamlessly integrate with Paper UI.</div>
+<div align="left">Shitty Icons is a crappy handdrawn icon library built to seamlessly integrate with any project.</div>
 <div align="left">
 
 [Documentation](https://paperui.com/)
