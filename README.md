@@ -13,33 +13,33 @@
 
 ### CDN
 
-Import Paper Icons using CDN. The import-min.js file will automatically import all styles and JavaScript files into the ```<head>```.
+Import Shitty Icons using CDN. The import-min.js file will automatically import all styles and JavaScript files into the ```<head>```.
 
 ```html
-<script type="module" src="https://unpkg.com/papericons"></script>
+<script type="module" src="https://unpkg.com/shittyicons"></script>
 ```
 
 #### 🚧 Specific Version
 ```html
-<script type="module" src="https://unpkg.com/papericons@0.0.34"></script>
+<script type="module" src="https://unpkg.com/shittyicons@0.0.1"></script>
 ```
 
 <!--#### 🚧 Development
 ```html
-<script type="module" src="https://unpkg.com/papericons@latest"></script>
+<script type="module" src="https://unpkg.com/shittyicons@latest"></script>
 ```-->
 
 ### NPM
 
-Install Paper Icons using [npm and node](https://nodejs.org/en).
+Install Shity Icons using [npm and node](https://nodejs.org/en).
 
 ```bash
-npm install papericons
+npm install shittyicons
 ```
 
 ## Import
 
-Import icon definitions from ```papericons/import.js```.
+Import icon definitions from ```shityicons```.
 
 ```index.js```
 
