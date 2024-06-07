@@ -21,7 +21,7 @@ Import Shitty Icons using CDN. The import-min.js file will automatically import 
 
 #### 🚧 Specific Version
 ```html
-<script type="module" src="https://unpkg.com/shittyicons@0.0.1"></script>
+<script type="module" src="https://unpkg.com/shittyicons@latest"></script>
 ```
 
 <!--#### 🚧 Development
@@ -70,7 +70,7 @@ Use the ```<icon-name>``` tag in HTML markup. Refer to the [Icon Docs](https://p
 </script>
 ```
 
-Check out the demo on [codepen](https://codepen.io/GreenestGoat/pen/YzbpOBv).
+Check out the demo on [codepen](https://codepen.io/GreenestGoat/pen/WNBEeNz).
 
 <!--## Backers
 
