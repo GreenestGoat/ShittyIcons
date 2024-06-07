@@ -5,7 +5,7 @@
 <div align="left">Shitty Icons is a crappy handdrawn icon library built to seamlessly integrate with Paper UI.</div>
 <div align="left">
 
-[Documentation](https://icons.paperui.com/)
+[Documentation](https://paperui.com/)
 
 </div>
 
@@ -44,28 +44,28 @@ Import icon definitions from ```shityicons```.
 ```index.js```
 
 ```js
-import paperIcons from 'papericons';
+import shittyIcons from 'shityicons';
 
 document.addEventListener('DOMContentLoaded', () => {
-  paperIcons.replaceIcons();
+  shittyIcons.replaceIcons();
 });
 ```
 
 ## Usage
 
-Use the ```<icon-name>``` tag in HTML markup. Refer to the [Icon Docs](https://icons.paperui.com) for more guidance on using each icon. That's it 🎉.
+Use the ```<icon-name>``` tag in HTML markup. Refer to the [Icon Docs](https://paperui.com) for more guidance on using each icon. That's it 🎉.
 
 ```HTML```
 
 ```html
 <!-- example icon -->
-<i paper-icon="disc"></i>
+<i shitty-icon="disc"></i>
 
 <!-- using vanilla js with no framework -->
 
 <script>
   document.addEventListener('DOMContentLoaded', () => {
-    window.PaperIcons.replaceIcons();
+    window.shittyIcons.replaceIcons();
   });
 </script>
 ```
@@ -83,4 +83,4 @@ Thank you to all our backers! 🙏.
 
 Licensed under the MIT License, Copyright © 2024-present Opensource-Paper.
 
-See [LICENSE](https://github.com/Opensource-Paper/PaperIcons/blob/main/LICENSE) for more information.
+See [LICENSE](https://github.com/GreenestGoat/ShittyIcons/blob/main/LICENSE) for more information.
