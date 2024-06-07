@@ -81,6 +81,6 @@ Thank you to all our backers! 🙏.
 
 ## Copyright and license
 
-Licensed under the MIT License, Copyright © 2024-present Opensource-Paper.
+Licensed under the MIT License, Copyright © 2024-present GreenestGoat.
 
 See [LICENSE](https://github.com/GreenestGoat/ShittyIcons/blob/main/LICENSE) for more information.
