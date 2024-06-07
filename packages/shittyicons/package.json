@@ -1,0 +1,42 @@
+{
+  "name": "shittyicons",
+  "version": "0.0.0",
+  "description": "Shitty Icons is a crappy handdrawn icon library built to seamlessly integrate with any project.",
+  "main": "import.js",
+  "unpkg": "import.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreenestGoat/ShittyIcons.git"
+  },
+  "author": "GreenestGoat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GreenestGoat/ShittyIcons/issues"
+  },
+  "homepage": "https://paperui.com",
+  "keywords": [
+    "javascript",
+    "svg",
+    "html",
+    "open-source",
+    "npm",
+    "documentation",
+    "js",
+    "shitty",
+    "icons",
+    "icon-pack",
+    "svg-icons",
+    "icon",
+    "ui-components",
+    "figma",
+    "ui-library",
+    "svgs",
+    "paper-ui",
+    "paperui",
+    "shitty-icons",
+    "shittyicons"
+  ]
+}
