@@ -1,6 +1,6 @@
 {
   "name": "shittyicons",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Shitty Icons is a crappy handdrawn icon library built to seamlessly integrate with any project.",
   "main": "import.js",
   "unpkg": "import.min.js",
